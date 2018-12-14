@@ -4,9 +4,11 @@ A resource for Twilio Superclass workshops 🎉😄
 
 ## 🤔 What is a Twilio "Superclass"?
 
-short description about superclass...
+Superclass is self-directed training for developers who want to level up their Twilio skills.
 
-link to video: https://www.youtube.com/watch?v=Epx7a-swzmo
+On-site mentors will guide you through a self-paced, choose-your-own-adventure coding experience that’s built on Twilio’s education platform: [TwilioQuest](https://www.twilio.com/quest).
+
+*[Superclass Highlights](https://www.youtube.com/watch?v=Epx7a-swzmo) from SIGNAL 2018*
 
 ## Upcoming Superclasses...
 - li
