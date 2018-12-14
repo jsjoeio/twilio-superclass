@@ -10,19 +10,25 @@ On-site mentors will guide you through a self-paced, choose-your-own-adventure c
 
 *[Superclass Highlights](https://www.youtube.com/watch?v=Epx7a-swzmo) from SIGNAL 2018*
 
-## Upcoming Superclasses...
-- li
-- li
+## 📆 Upcoming Superclasses
+- Superclass at [Hack Arizona](https://hackarizona.org/) Jan. 18-20, 2019 in Tucson, AZ
 
 ## ⚔️ Preparation 
 
-- talk about what they can do before hand
-- resources, what they'll need 
-- general things (like a code editor)??
+The only thing you need to bring to Superclass is your laptop and a spirit for learning. BUT, if you want to get ahead of the game, you can do some of these things below:
 
-### JS
+- [ ] [Sign up](https://www.twilio.com/try-twilio) for Twilio
+- [ ] Download a text editor (we ❤️ [VSCode](https://code.visualstudio.com/download))
+- [ ] Read ["What is Twilio and How Do Twilio APIs Work?"](https://www.twilio.com/learn/twilio-101/what-is-twilio)
+- [ ] Learn about all of [Twilio's products](https://www.twilio.com/products)
+- [ ] Say hello to Twilio on [Twitter](https://twitter.com/search?f=users&vertical=default&q=%40twilio&src=typd)
+- [ ] Checkout the [Twilio Blog](https://www.twilio.com/blog/)
 
-getting things set up for js
+You don't need to do all of these things but they make help establish a better foundation for the Superclass 😁
+ 
+### Prepping a JavaScript Environment 
+
+To work js
 
 ### Python
 
