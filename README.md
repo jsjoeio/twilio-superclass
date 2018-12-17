@@ -34,17 +34,13 @@ To work js
 
 getting thigns set up for js
 
-## Twilio APIs You'll get to play with
-
-- link to the different products and things you'll be working with in TwilioQuest
-
-## Things people have built with Twilio
-
-- list of cool things (todo app, some stuff from blog posts
 
 ## 🆘 Getting Help
 
-- talk about how during the event, we'll provide a link to get help from Twilions
+During the event, we'll have two ways for you to get help:
+
+1. Raising your hand and the organizers will come around to help
+2. We'll share a special link so a Twilion can help you remotely 
 
 ## 🆙 Doing More with Twilio  
 
