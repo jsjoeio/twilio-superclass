@@ -26,7 +26,7 @@ The only thing you need to bring to Superclass is your laptop and a spirit for l
 
 You don't need to do all of these things but they may help you establish a better foundation for Superclass 😁
  
-### 💛 Prepping a JavaScript Environment 
+### 💛 Working in JavaScript  
 
 If you plan to use JavaScript, you'l be writing our code in Node.js(server-side JavaScript). Follow these steps below:
 
@@ -36,7 +36,7 @@ If you plan to use JavaScript, you'l be writing our code in Node.js(server-side 
     2. On Windows, install with chocolatey by running `choco install ngrok`
 3. Try a [Programmable SMS Quickstart](https://www.twilio.com/docs/sms/quickstart/node#send-an-outbound-sms-message-with-nodejs)
 
-### 🐍 Python
+### 🐍 Working in Python
 
 A great programming language to use with Twilio, follow these steps to get things set up:
 
