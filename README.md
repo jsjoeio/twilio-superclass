@@ -24,7 +24,7 @@ The only thing you need to bring to Superclass is your laptop and a spirit for l
 - [ ] Say hello to Twilio on [Twitter](https://twitter.com/search?f=users&vertical=default&q=%40twilio&src=typd)
 - [ ] Checkout the [Twilio Blog](https://www.twilio.com/blog/)
 
-You don't need to do all of these things but they make help establish a better foundation for the Superclass 😁
+You don't need to do all of these things but they may help you establish a better foundation for Superclass 😁
  
 ### Prepping a JavaScript Environment 
 
@@ -46,8 +46,8 @@ getting thigns set up for js
 
 - talk about how during the event, we'll provide a link to get help from Twilions
 
-## Taking Twilio to the Next Level 
+## 🆙 Doing More with Twilio  
 
-- internships or working at Twilio (link)
-- finding local community 
-- sharing what you build on Twitter and writing a blog post
+- Check out the Twilio University Program or open roles on the [jobs page](https://www.twilio.com/company/jobs)
+- Want to get more involved with Twilio? Learn more about the [Twilio Champions Program](https://www.twilio.com/blog/introducing-twilio-champions-program) 
+- Like to write and share what you built? Write a blog post for Twilio and [get paid](https://go.twilio.com/twilio-voices/)! 
