@@ -56,6 +56,8 @@ During the event, we'll have two ways for you to get help:
 
 ## 🆙 Doing More with Twilio  
 
+Loved the Superclass? Want to do more with Twilio? Hooray! 😄 We have several ways for you to get more involved:
+
 - Check out the Twilio University Program or open roles on the [jobs page](https://www.twilio.com/company/jobs)
 - Want to get more involved with Twilio? Learn more about the [Twilio Champions Program](https://www.twilio.com/blog/introducing-twilio-champions-program) 
 - Like to write and share what you built? Write a blog post for Twilio and [get paid](https://go.twilio.com/twilio-voices/)! 
